@@ -6,7 +6,7 @@ I am a passionate and motivated individual working towards obtaining a degree in
 
 ## Education:
 
-Northwest Missouri State University: Pursuing a Master's degree in Data Analytics
-- 🎓 Expected Graduation: May 2024
+Northwest Missouri State University: Master's Degree in Data Analytics
+- 🎓 Awarded: April 2024
 
 
